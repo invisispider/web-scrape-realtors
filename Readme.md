@@ -106,6 +106,16 @@ Want to collaborate or learn more?
 - **Upwork:** [My Upwork Profile](https://www.upwork.com/freelancers/~01527a09cdcfd75500)  
 - **Website:** [steinunlimited.com](https://steinunlimited.com/)
 
+## 🌐 My GitHub Portfolio
+
+Check out my other highlighted projects:  
+- [pdf-coa-to-csv](https://github.com/invisispider/pdf-coa-to-csv) – Python tools that read PDF test certificates  
+- [web-scrape-realtors](https://github.com/invisispider/web-scrape-realtors) – Python web scraper for US realtors  
+- [mfa-metrc-login](https://github.com/invisispider/mfa-metrc-login) – Automates Metrc MFA login with backup codes  
+- [python-google-sheets-server](https://github.com/invisispider/python-google-sheets-server) – Flask server with Google API integration  
+- [Stein-Unlimited](https://github.com/invisispider/Stein-Unlimited) – Personal Vue 3 web app with advanced features  
+- [invisispider.github.io](https://github.com/invisispider/invisispider.github.io) – My portfolio site on GitHub Pages
+
 --- 
 
 ## License
